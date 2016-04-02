@@ -23,6 +23,8 @@ file system.
 
 ## How To Contribute
 
+Please fork this repositry and then issu Pull Reqests for review.
+
 ### Copyright
 
 2016 Lod.Fk
