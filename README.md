@@ -23,4 +23,6 @@ file system.
 
 ## How To Contribute
 
-## Conclusion
+### Copyright
+
+2016 Lod.Fk
